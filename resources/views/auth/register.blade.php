@@ -52,7 +52,7 @@
         </div>
 
         <div class="flex items-center justify-center flex-col mt-4 gap-3">
-            <x-secondary-button class="w-full">
+            <x-secondary-button class="w-full" type="submit">
                 {{ __('Verifikasi') }}
             </x-secondary-button>
         </div>
